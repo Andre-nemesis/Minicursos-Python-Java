@@ -1,4 +1,4 @@
-package br.com.andre_casimiro.github.todolist.controller;
+package br.com.andre_casimiro.github.todolist.controllers.test;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
